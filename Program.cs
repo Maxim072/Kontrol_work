@@ -1,7 +1,7 @@
 ﻿// Задача. Написать программу, которая из имеющегося массива строк формирует массив из строк,
 // длина которых меньше либо равна 3 символа.
 
-string[] strArray = { "Анна", "Russia", "Git", "work" };
+string[] strArray = { "Window", "Russia", "GitHub", "777" };
 
 PrintArray();
 Console.WriteLine("Массив из строк, длинна которых меньше либо равна 3 символа");
@@ -26,7 +26,3 @@ void SortThreeElrments()
     }
     Console.WriteLine();
 }
-// Test 3
-// Анна Russia Git work 
-// Массив из строк, длинна которых меньше либо равна 3 символа
-// Git
