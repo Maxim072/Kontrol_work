@@ -26,3 +26,7 @@ void SortThreeElrments()
     }
     Console.WriteLine();
 }
+// Test 1
+// das 548 retry =-) привет Вау 
+// Массив из строк, длинна которых меньше либо равна 3 символа
+// das 548 =-) Вау

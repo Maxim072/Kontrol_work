@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Kontrol_work\bin\Debug\net6.0\Kontrol_work.exe
+C:\Users\user\Desktop\Kontrol_work\bin\Debug\net6.0\Kontrol_work.deps.json
+C:\Users\user\Desktop\Kontrol_work\bin\Debug\net6.0\Kontrol_work.runtimeconfig.json
+C:\Users\user\Desktop\Kontrol_work\bin\Debug\net6.0\Kontrol_work.dll
+C:\Users\user\Desktop\Kontrol_work\bin\Debug\net6.0\Kontrol_work.pdb
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.AssemblyInfo.cs
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.dll
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\refint\Kontrol_work.dll
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.pdb
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\Kontrol_work.genruntimeconfig.cache
+C:\Users\user\Desktop\Kontrol_work\obj\Debug\net6.0\ref\Kontrol_work.dll
